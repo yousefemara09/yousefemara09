@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Front-End Developer
+- 🌱 I’m currently React.js
+- 👯 I’m looking to collaborate on test
+
 <!--
 **yousefemara09/yousefemara09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
