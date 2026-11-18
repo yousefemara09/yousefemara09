@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on SOON <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about<br>⚡ Fun fact
+Junior Odoo Developer based in Cairo, Egypt. I build custom Odoo 17 modules in Python, XML, and PostgreSQL: state workflows, security rules, QWeb reports, OWL components, and REST API / webhook integrations.
+
+🔭 Featured projects: [Service Center](https://github.com/yousefemara09/Service-Order-Simple) · [Gym](https://github.com/yousefemara09/Simple-GYM-App) · [Restaurant](https://github.com/yousefemara09/Restaurant-Simple-App-Odoo-) · [Hospital](https://github.com/yousefemara09/hospital_app) · [Real Estate](https://github.com/yousefemara09/Property-odoo)<br>
+📫 Reach me: yemara539@gmail.com
 
 
 ## 🌐 Socials:
